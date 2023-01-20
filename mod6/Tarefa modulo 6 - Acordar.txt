@@ -1,0 +1,31 @@
+ALGORITMO ACORDAR EM PORTUGOL
+
+INICIO
+	1. Despertador tocou?Sim
+		1.Acordar
+		2.Abrir os olhos
+		3.Pegar o despertador
+		4.Desligar despertador
+		5.Colocar despertador no lugar.
+		6.Levantar tronco.
+		7.Botar pernas para fora da cama.
+		8.Levantar da cama.
+		9.Arrumar a cama.
+		10.Pegar nova muda de roupa.
+		11.Seguir em direção ao banheiro.
+		12.Porta aberta?
+			sim
+			1.Seguir para o banheiro.
+			Não
+			2.Pegar na maçaneta.
+			3.Girar maçaneta.
+			4.Abrir porta.
+			5.seguir para o banheiro.
+		13.Escovar os dentes.
+		14.Retirar a roupa.
+		15.Tomar banho.
+		16.Se secar.
+		17.Botar nova muda de roupa.
+		18.Pegar velha muda de roupa.
+		19.Botar velha muda de roupa no cesto de lavar.
+		20.Seguir o dia.
